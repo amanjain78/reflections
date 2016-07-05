@@ -10,3 +10,6 @@ How is the staging area different from the working directory and the repository?
 
  We can move things to the staging area one at a time and when all the changes corresponding to one logical changes in any number of files are finished we can commit all those changes.
 
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+When we want to add some new features which are colliding in nature we can create a branch and carry on with the two branches in parallel.
