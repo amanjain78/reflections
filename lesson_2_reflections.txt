@@ -6,3 +6,7 @@ How is the staging area different from the working directory and the repository?
 
  Staging area acts as an mediator between the working directory and the git repository. Changes pertaining to one logical changes over a number of files can be submitted as one commit.
 
+ How can you use the staging area to make sure you have one commit per logical change?
+
+ We can move things to the staging area one at a time and when all the changes corresponding to one logical changes in any number of files are finished we can commit all those changes.
+
