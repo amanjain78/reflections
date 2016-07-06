@@ -21,3 +21,6 @@ Diagrams help us in keep track of the branching structure since when you checkou
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 We get the combined result of tho branches. Representing in the way is easier to visualise as after the merging only the parent branch will be remained.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+ Git automatic merging help in merging when developers work on different functions. When people work on the same function it may be difficult for them to merge in the end as it will require manual intervention.
