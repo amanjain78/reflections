@@ -1,0 +1,3 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+This is helpful when a large number of developers work on a single file. It is convenient to push your changes on the remote as other will work on top of it.
